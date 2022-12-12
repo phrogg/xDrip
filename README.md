@@ -1,3 +1,8 @@
+# Changes in this fork
+
+I'm currently working on implementing the BangleJS 2 in xdrip.
+
+
 # Nightscout xDrip+
 > Enhanced personal research version of xDrip
 
